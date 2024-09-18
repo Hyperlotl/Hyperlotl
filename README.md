@@ -1,3 +1,5 @@
+My name is Hyperlotl! Im a coder and animator who likes axolotls
+
 <!---
 - 👋 Hi, I’m @Hyperlotl
 - 👀 I’m interested in ...
