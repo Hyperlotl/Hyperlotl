@@ -4,6 +4,9 @@ My name is Hyperlotl! I'm a coder and animator =)
 
 I like axolotls a lotl
 
+🌱 I’m currently learning javascript 
+
+
 
 
 <!---
