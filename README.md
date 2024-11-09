@@ -1,10 +1,10 @@
 hello!
 
 My name is Hyperlotl! I'm a coder and animator =)
-
-I like axolotls a lotl
-
-🌱 I’m currently learning javascript 
+I'd say I'm proficient in basic scripting, scratch, and python(especially the transformers library)
+I like axolotls a lotl!
+🌱 I’m currently learning javascript and godot
+💞️ I’m looking to collaborate on anything really =)
 
 
 
