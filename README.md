@@ -1,11 +1,10 @@
 # 👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right?
 
-👀 I'm pretty profecient in python and GDscript(godot), and I have basic JavaScript skills
-⚡ I like axolotls a lotl!
-🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)
-💞️ I’m looking to collaborate on anything really =)
-
-
+- 👀 I'm pretty profecient in python and GDscript(godot), and I have basic JavaScript skills
+- ⚡ I like axolotls a lotl!
+- 🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)
+- 💞️ I’m looking to collaborate on animations, code AND I am up for commisions
+- 📫 How to reach me: Im currently in the process of making my website so just be patient.
 
 
 <!---
