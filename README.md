@@ -8,7 +8,7 @@
 <h1>My skills:</h1>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,godot,vscode,github,python,openai&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html,sketchup&perline=6" />
   </a><br>
 <!---
 - 👋 Hi, I’m @Hyperlotl
