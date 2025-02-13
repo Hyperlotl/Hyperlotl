@@ -4,7 +4,7 @@
 ⚡ I like axolotls a lotl!</br>
 🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)</br>
 💞️ I’m looking to collaborate on animations, code AND I am up for commisions</br>
-
+<hr>
 <h1>My skills:</h1>
 
   <a href="https://skillicons.dev">
