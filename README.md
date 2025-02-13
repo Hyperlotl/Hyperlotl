@@ -2,7 +2,7 @@
 <p><a href="https://Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>
 <p> </p>
 ⚡ I like axolotls a lotl!</br>
-🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)</br>
+🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)</br></br>
 💞️ I’m looking to collaborate on animations, code AND I am up for commisions</br>
 </br>
 <h1>My skills:</h1>
