@@ -1,4 +1,4 @@
-# 👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right? </br>
+<h1>👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right?</h1>
 **<p><a href="Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>**
 <p> </p>
 ⚡ I like axolotls a lotl!</br>
