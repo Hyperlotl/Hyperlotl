@@ -1,12 +1,12 @@
 # 👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right? </br>
-**<p><a href="Hyperlotl.github.io/pages/aboutme" target="_self">About Me</a></p>**
-
-- ⚡ I like axolotls a lotl!
-- 🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)
-- 💞️ I’m looking to collaborate on animations, code AND I am up for commisions
+**<p><a href="Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>**
+<p> </p>
+⚡ I like axolotls a lotl!</br>
+🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)</br>
+- 💞️ I’m looking to collaborate on animations, code AND I am up for commisions</br>
 # My skills:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,svg,nodejs,webpack,lua,java,gradle,bash,powershell,blender,godot,vim,vscode,idea,linux,raspberrypi,git,github,md&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,godot,vscode,github,python,openai&perline=5" />
   </a><br>
 <!---
 - 👋 Hi, I’m @Hyperlotl
