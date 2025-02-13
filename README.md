@@ -3,8 +3,10 @@
 <p> </p>
 ⚡ I like axolotls a lotl!</br>
 🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)</br>
-- 💞️ I’m looking to collaborate on animations, code AND I am up for commisions</br>
-# My skills:
+💞️ I’m looking to collaborate on animations, code AND I am up for commisions</br>
+
+<h1>My skills:</h1>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,godot,vscode,github,python,openai&perline=5" />
   </a><br>
