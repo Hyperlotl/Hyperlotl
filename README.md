@@ -1,5 +1,5 @@
 # 👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right? </br>
-# <p><a href="/pages/aboutme.html" target="_self">About Me</a></p>
+**<p><a href="Hyperlotl.github.io/pages/aboutme" target="_self">About Me</a></p>**
 
 - ⚡ I like axolotls a lotl!
 - 🌱 I’m currently learning javascript and the Transformers Library(Its amazing lol)
