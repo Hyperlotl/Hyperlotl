@@ -1,5 +1,4 @@
 <h1>👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right?</h1>
-<iframe src="https://hyperlotl.github.io/Website.html" width="1000" height="800" style="border:none;"></iframe>
 <p><a href="https://Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>
 <p> </p>
 ⚡ I like axolotls a lotl!</br>
@@ -32,6 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Add a blank line to break out of HTML mode -->
 
-[YouTube](https://www.youtube.com/@Hyperlotl) | [GitHub](https://github.com/Hyperlotl)
+[Anuke(n)](https://github.com/anuken)
 
 
