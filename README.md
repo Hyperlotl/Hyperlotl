@@ -16,7 +16,7 @@
   </a><br>
 
 <h1>My inspirations(this might not be borrectly updated tho)</h1>
-<ul list-style: none;padding: 0;>
+<ul style="list-style: none;padding: 0;">
             
   <li><a href="https://www.youtube.com/@Hyperlotl" target="_blank">YouTube</a></li>
   <li><a href="https://github.com/Hyperlotl" target="_blank">GitHub</a></li>
