@@ -10,6 +10,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html,sketchup&perline=6" />
   </a><br>
+
+
+<ul>
+  <li><a href="https://www.youtube.com/@Hyperlotl" target="_blank">YouTube</a></li>
+  <li><a href="https://github.com/Hyperlotl" target="_blank">GitHub</a></li>
+</ul>
 <!---
 - 👋 Hi, I’m @Hyperlotl
 - 👀 I’m interested in ...
