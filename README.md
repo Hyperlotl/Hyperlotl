@@ -2,15 +2,9 @@
 My name is Hyperlotl, and I'm an axolotl that codes **AND** animates. Cool, right?
 
 [➡️ A lil bit more about me](https://Hyperlotl.github.io/pages/aboutme)
-
----
-
 ⚡ I like axolotls a lotl!  
 🌱 I’m currently learning JavaScript and the Transformers Library (it's amazing lol)  
 💞️ I’m looking to collaborate on animations, code, **AND** I am up for commissions  
-
----
-
 ## 🛠️ My Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html,sketchup&perline=6)](https://skillicons.dev)
 
