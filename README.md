@@ -1,4 +1,4 @@
-
+<html lang="en">
 <h1>👋  Hi there! My name is Hyperlotl and I'm an axolotl that codes AND animates. Cool right?</h1>
 <p><a href="https://Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>
 <p> </p>
@@ -11,7 +11,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html,sketchup&perline=6" />
   </a><br>
-<p1>*test*</p1>
+
 <h1>My inspirations(this might not be borrectly updated tho)</h1>
 [YouTube](https://www.youtube.com/@Hyperlotl) | [GitHub](https://github.com/Hyperlotl)
 <!---
