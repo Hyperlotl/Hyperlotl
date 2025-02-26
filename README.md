@@ -11,7 +11,6 @@
     <img src="https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html,sketchup&perline=6" />
   </a><br>
 
-<h1>🌟 My Inspirations:(this might not be borrectly updated tho)</h1>
 
 <!---
 - 👋 Hi, I’m @Hyperlotl
@@ -31,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Add a blank line to break out of HTML mode -->
 
-[Anuke(n)](https://github.com/anuken)
+*checkit out* ***im now in MARKDOWN LESSGOOOOOOOO***
 
 
