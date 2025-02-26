@@ -7,10 +7,7 @@ My name is Hyperlotl, and I'm an axolotl that codes **AND** animates. Cool, righ
 💞️ I’m looking to collaborate on animations, code, **AND** I am up for commissions  
 
 ## 🛠️ My Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html&perline=6)](https://skillicons.dev)
-
----
-
+[![My Skills](https://skillicons.dev/icons?i=py,godot,js,ts,vscode,html&perline=6)]
 ## 🌟 My Inspirations:
 *(This might not be correctly updated, though)*
 
