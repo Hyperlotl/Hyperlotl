@@ -1,13 +1,5 @@
 # 👋 Hi there!  
 My name is Hyperlotl, and I'm an axolotl that codes **AND** animates. Cool, right?
-# This Markdown Works
-
-<p>This is inside an HTML block.</p>
-
-<!-- Add a blank line to break out of HTML mode -->
-
-# This Markdown **will** work again!
-
 [➡️ A lil bit more about me](https://Hyperlotl.github.io/pages/aboutme)  
 ⚡ I like axolotls a lotl!  
 🌱 I’m currently learning JavaScript and the Transformers Library (it's amazing lol)  
@@ -52,3 +44,9 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
+
+<!-- Add a blank line to break out of HTML mode -->
+
+[YouTube](https://www.youtube.com/@Hyperlotl) | [GitHub](https://github.com/Hyperlotl)
+
+
