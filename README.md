@@ -13,7 +13,7 @@
   </a><br>
 
 <h1>My inspirations(this might not be borrectly updated tho)</h1>
-[YouTube](https://www.youtube.com/@Hyperlotl) | [GitHub](https://github.com/Hyperlotl)
+
 <!---
 - 👋 Hi, I’m @Hyperlotl
 - 👀 I’m interested in ...
@@ -30,3 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 --->
 </html>
+[YouTube](https://www.youtube.com/@Hyperlotl) | [GitHub](https://github.com/Hyperlotl)
