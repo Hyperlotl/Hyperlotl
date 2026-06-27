@@ -1,4 +1,4 @@
-<h1>Im Hyperlot!<h1>
+<h1>Im Hyperlotl!<h1>
 <p><a href="https://Hyperlotl.github.io/pages/aboutme" target="_self">A lil bit more about me</a></p>
 <p> </p>
 ⚡ I like axolotls a lotl!</br>
